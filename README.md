@@ -22,7 +22,7 @@ Ce projet déploie automatiquement une infrastructure composée de deux machines
 
 1. **Cloner le projet**
 	 ```bash
-	 git clone ""
+	 git clone "https://github.com/Raf-Mos/projet-infra-simple.git"
 	 cd projet-infra-simple
 	 ```
 2. **Lancer l'infrastructure**
